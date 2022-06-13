@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:7_inheritance_operation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:6_dispatch_group_operation_queue.playground">
+   </FileRef>
+   <FileRef
+      location = "group:5_operation_dependencies.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/htkien2511gmail.com/Desktop/stdiohue/Seminar/Operation_Swift/source/4_operation_queue.playground">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/htkien2511gmail.com/Desktop/stdiohue/Seminar/Operation_Swift/source/3_block_operation_completionBlock.playground">
+   </FileRef>
+   <FileRef
+      location = "group:2_multi_block_operation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:1_block_operation.playground">
+   </FileRef>
+   <FileRef
+      location = "group:0_test.playground">
+   </FileRef>
+</Workspace>

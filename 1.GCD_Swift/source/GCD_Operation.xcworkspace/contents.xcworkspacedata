@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:13_prority_inversion_two.playground">
+   </FileRef>
+   <FileRef
+      location = "group:12_priority_inversion.playground">
+   </FileRef>
+   <FileRef
+      location = "group:11_deadlock.playground">
+   </FileRef>
+   <FileRef
+      location = "group:10_2_race_condition_barrier.playground">
+   </FileRef>
+   <FileRef
+      location = "group:10_1_race_condition_sync.playground">
+   </FileRef>
+   <FileRef
+      location = "group:10_race_condition.playground">
+   </FileRef>
+   <FileRef
+      location = "group:9_dispatch_semaphore.playground">
+   </FileRef>
+   <FileRef
+      location = "group:8_dispatch_group.playground">
+   </FileRef>
+   <FileRef
+      location = "group:7_qos_vs_main_thread.playground">
+   </FileRef>
+   <FileRef
+      location = "group:6_qos_difference_priority.playground">
+   </FileRef>
+   <FileRef
+      location = "group:5_qos_same_priority.playground">
+   </FileRef>
+   <FileRef
+      location = "group:4_concurrent_queue.playground">
+   </FileRef>
+   <FileRef
+      location = "group:3_serial_queue.playground">
+   </FileRef>
+   <FileRef
+      location = "group:2_asynchronously.playground">
+   </FileRef>
+   <FileRef
+      location = "group:1_synchronously.playground">
+   </FileRef>
+</Workspace>
